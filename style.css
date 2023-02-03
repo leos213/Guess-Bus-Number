@@ -222,6 +222,16 @@ main {
     color: greenyellow;
 
   }
+  
+  #middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: aquamarine;
+  font-family: 'Rubik Gemstones', cursive;
+  margin-top: -74px;
+}
 
 
 
